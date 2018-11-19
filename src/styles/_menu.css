@@ -1,0 +1,27 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 0;
+  margin-right: auto;
+  padding: 0 130px;
+  list-style: none;
+  background: #325857;
+}
+
+.menu__item {
+  font-size: 20px;
+}
+
+.menu__item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.menu__item a {
+  display: block;
+  padding: 15px;
+  color: #ffffff;
+}
+
+

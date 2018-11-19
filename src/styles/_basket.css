@@ -1,0 +1,28 @@
+.basket {
+  width: 200px;
+}
+
+.basket__block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 9px;
+  border: 2px solid #ffffff;
+  background: transparent;
+  border-radius: 5px;
+}
+
+.basket__link {
+  color: #ffffff;
+}
+
+.basket__img {
+  fill: #ffffff;
+  width: 16px;
+  height: 16px;
+  margin-right: 15px;
+}
+
+.basket__name {
+  margin-right: 20px;
+}

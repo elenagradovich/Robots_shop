@@ -1,0 +1,43 @@
+.robot-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0 0;
+  margin: 10px;
+  min-width: 200px;
+  max-width: 270px;
+  width: 30%;
+  border: 2px solid #58a7a4;
+}
+
+.robot-item__wrapper {
+  width: 100%;
+  padding: 10px;
+  flex-grow: 1;
+  background: #58a7a4;
+  box-sizing: border-box;
+}
+
+.robot-item__img {
+  width: 80%;
+  height: auto;
+}
+
+.robot-item__name {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.robot-item__price {
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.robot-item__btn {
+  padding: 5px;
+  background: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  color: #ffffff;
+}

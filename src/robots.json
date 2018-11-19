@@ -1,0 +1,33 @@
+{
+  "robots": [{
+      "image": "img/image-1.jpg",
+      "name": "Robot-1",
+      "price": "100"
+    },
+    {
+      "image": "img/image-2.jpg",
+      "name": "Robot-2",
+      "price": "150"
+    },
+    {
+      "image": "img/image-3.jpg",
+      "name": "Robot-3",
+      "price": "200"
+    },
+    {
+      "image": "img/image-4.jpg",
+      "name": "Robot-4",
+      "price": "250"
+    },
+    {
+      "image": "img/image-5.jpg",
+      "name": "Robot-5",
+      "price": "300"
+    },
+    {
+      "image": "img/image-6.jpg",
+      "name": "Robot-6",
+      "price": "350"
+    }
+  ]
+}

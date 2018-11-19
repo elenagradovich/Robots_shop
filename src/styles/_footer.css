@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  background: #325857;
+  color: #ffffff;
+}
+
+.footer__wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 1200px;
+  padding: 15px 130px;
+}
